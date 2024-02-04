@@ -12,13 +12,13 @@ No usar directamente en AngularCLI ya que las variables de entorno se crean basa
 3. Crear Angular Envs (opcional)
 
 ```
-npm runs envs
+npm run envs
 ```
 4. Para development ejecutar
 ```
-npm runs start
+npm run start
 ```
 5. Para produccion ejecutar
 ```
-npm runs build
+npm run build
 ```
